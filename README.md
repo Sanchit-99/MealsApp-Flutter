@@ -1,6 +1,6 @@
-# meals
+# MealsApp
 
-A new Flutter project.
+A flutter application to showcase the usage of navigation using routes and handling Tabs, NavigationDrawer etc.
 
 ## Getting Started
 
